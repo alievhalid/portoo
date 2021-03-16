@@ -13,9 +13,7 @@ a {
 	color: inherit;
 }
 header {
-	background-image: url(bg.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-color: blue;
 }
 img {
 	width: 100%;
